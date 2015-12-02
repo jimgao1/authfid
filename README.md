@@ -43,7 +43,7 @@ implementation information can be found below under 'Technology Used'.
    - Linux (Raspbian, Raspberry Pi)
    - Git (source management)
    - C (Raspberry Pi touch screen driver)
-   - C++ (Java Hardware Access + Windows autotype)
+   - C++ (Java Hardware Access + Autotype program on Linux host)
    - Java (TOTP Code Gen + Swing Interface + Socket Networking)
    - Bash (Linux shell control + Simple scripting)
 
