@@ -5,6 +5,8 @@ Project on DevPost: http://devpost.com/software/authfid
 This project was built at HackWestern2 (hackwestern.com), where
 everyone gets 5 hours of sleep :D
 
+This project was awarded the `Best End to End Implementation Prize` in HackWestern 2
+
 ### Introduction
 AuthFID is a hardware implementation of 2 factor authencation activated using a RFID card. It provides fast and secure access to your codes, and you only need to carry a RFID card that is registered in the system. 
 
