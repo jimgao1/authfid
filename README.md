@@ -34,6 +34,8 @@ This device is secured by RFID, and provides fast code access at your desk.
 We used the Raspberry Pi for majority of this project, so everything is linux based. Further
 implementation information can be found below under 'Technology Used'. 
 
+The code generation algorithm is using standard TOTP algorithm. 
+
 ### Technology Used
  - Hardware
    - Raspberry Pi (TOTP Code Generation, Display, Networking, Camera)
