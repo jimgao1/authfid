@@ -26,7 +26,7 @@ The unit shows the current 2-factor-authentication code when activated by a RFID
 
 ### Inspiration
 
-When using 2 factor authentication, it is incomvenient to use a phone when the TOTP code is needed. 
+When using 2 factor authentication, it is inconvenient to use a phone when the TOTP code is needed. 
 This device is secured by RFID, and provides fast code access at your desk. 
 
 ### Implementation
