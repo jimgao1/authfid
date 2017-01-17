@@ -20,7 +20,7 @@ The unit shows the current 2-factor-authentication code when activated by a RFID
 
 ### Team Members and Roles
 
- - **Jim Gao** (jimthenerd) (Hashing algorithm, interface programming)
+ - **Jim Gao** (jimgao1) (Hashing algorithm, interface programming)
  - **Benjamin Cheng** (lolzballs) (Team Coordination, JNI Programming, Hardware Programming)
  - **Jacky Liao** (jackyliao123) (Hardware programming, Linux shell programming, GUI design and programming)
 
